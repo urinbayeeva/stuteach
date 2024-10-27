@@ -1,14 +1,17 @@
-name: stuteach
-description: "A new Flutter project."
+name: user_repo
+description: Dart package which manages the user
 publish_to: 'none' 
 
 version: 1.0.0+1
 
 environment:
   sdk: ^3.5.3
+
 dependencies:
   flutter:
     sdk: flutter
+
+    #Firebase
 
   cupertino_icons: ^1.0.8
   firebase_auth: ^5.3.1
